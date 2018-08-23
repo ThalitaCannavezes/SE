@@ -1,2 +1,6 @@
 # SE
-Repositório - Disciplina de Software Embarcado - UERJ
+Repositório - Disciplina de Software Embarcado 
+
+---
+
+*UERJ - 2018.2
